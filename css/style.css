@@ -1,0 +1,48 @@
+h1{
+
+}
+
+h6{
+	text-align: center;
+	border-style: solid;
+	padding: 10px 20px 10px 20px;
+}
+
+.bloc01{
+	margin: 10px;
+}
+
+.bloc02{
+	margin: 10px;
+	background-color: #DADADA;
+}
+
+.bloc03{
+	margin-top: : 40px;
+}
+
+.bloc04{
+	margin-top: : 30px;
+}
+
+.bloc05{
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+
+.espace1{
+	text-indent:50px;
+}
+
+.colormenu{
+	background-color: #FFFFFF;
+}
+
+.placementboutons{
+	float: right;
+}
+
+.colorfoot{
+	text-decoration-color: #FFFFFF;
+	background-color: #333333;
+}
